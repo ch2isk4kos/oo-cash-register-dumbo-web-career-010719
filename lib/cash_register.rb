@@ -13,7 +13,7 @@ class CashRegister
     # amount * quantity
     # self.total += amount
     self.total += amount * quantity
-    
+
   end
 
 
