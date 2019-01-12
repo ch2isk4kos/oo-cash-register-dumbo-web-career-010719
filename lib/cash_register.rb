@@ -25,4 +25,8 @@ class CashRegister
     end
   end
 
+  def items
+    return @items
+  end
+
 end
